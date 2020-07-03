@@ -1,0 +1,157 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap');
+
+
+body {
+
+  font-family: 'Montserrat', sans-serif;
+  }
+
+  #title {
+  background-color: #ff4c68;
+  color: #fff;
+  margin-bottom: -4em;
+  padding-bottom: 10%;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+
+}
+
+h1 {
+
+
+}
+
+h3 {
+
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.h3drk {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.herot {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.navbar {
+  margin-bottom: 4rem;
+  padding: 0;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+
+}
+
+#brand {
+  font-size:  2rem;
+  font-weight: normal;
+}
+
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  width: 55%;
+  transform: rotate(25deg);
+
+  position: absolute;
+  right: 30%;
+
+
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: white;
+
+  position: relative;
+
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+
+}
+
+#myh2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+#press img {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3^ 2%;
+}
+
+.myh3 {
+  font-size: 2rem;
+  font-weight: bold;
+}
